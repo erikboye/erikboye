@@ -6,7 +6,7 @@
 My name is Erik Boye Sørensen, and Im a 1st year FrontEnd-Developer student at Noroff Oslo, starting my secong year fall 2021, and really looking forward to it! We've just finshied up our [project exam](https://elated-curran-68d5fd.netlify.app/ "Erik Exam"), and Im quite happy with my result. Feel free to check it out!
 
 - :raised_hand: I'm looking to colloaborate with other contenct creators.
-- :trophy: Goals for 2021: Contribute
+- :trophy: Goals for 2021: Learn even more!
 - ⚡ Fun fact about me: I love Call Of Duty, music, bass and guitars.</br>
 
 

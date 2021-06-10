@@ -12,4 +12,4 @@ My name is Erik Boye Sørensen, and Im a 1st year FrontEnd-Developer student at 
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=erik_1337&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=erik_1337&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)

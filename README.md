@@ -17,7 +17,7 @@ My name is Erik Boye Sørensen, and Im a 1st year FrontEnd-Developer student at 
 
 ### Connect with me:
 
-[Portfolio](https://elated-curran-68d5fd.netlify.app/)</br>
+[Portfolio](https://elastic-shaw-b1a243.netlify.app/)</br>
 [Twitter](https://twitter.com/BoyeRensen)</br>
 [LinkedIn](https://www.linkedin.com/in/erik-boye-s%C3%B8rensen-40300aa3/)</br>
 [Instagram](https://www.instagram.com/erikboye/)</br>

@@ -14,8 +14,6 @@ My name is Erik Boye Sørensen, and Im a 1st year FrontEnd-Developer student at 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=erik_1337&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=erikboye&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
 
 ### Connect with me:
 
@@ -35,3 +33,5 @@ My name is Erik Boye Sørensen, and Im a 1st year FrontEnd-Developer student at 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=erikboye&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
